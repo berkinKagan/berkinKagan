@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django open-source projects<br>👯 I’m looking to collaborate on full-stack web development<br>🤝 I’m looking for help with more C++ tools, especially with game development!<br>🌱 I’m currently learning Pure C++.<br>💬 Reach me from berkinkagan03@gmail.com. <br>⚡ I  am studying Computer Science at Bilkent University
+🔭 I’m currently working on Django open-source projects<br>👯 I’m looking to collaborate on full-stack web development<br>🤝 I’m looking for help with more C++ tools, especially with game development!<br>🌱 I’m currently learning Pure C++ / C#.<br>💬 Reach me from berkinkagan03@gmail.com. <br>⚡ I  am studying Computer Science at Bilkent University
 
 
 # 💻 Tech Stack:
