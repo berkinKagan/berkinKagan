@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django open-source projects<br>👯 I’m looking to collaborate on full-stack web development<br>💬 Reach me from berkinkagan03@gmail.com. <br>⚡ I  am studying Computer Science at Bilkent University
+👯 I’m looking to collaborate on full-stack web development<br>💬 Reach me from berkinkagan03@gmail.com. <br>⚡ I  am studying Computer Science at Bilkent University
 
 
 # 💻 Tech Stack:
